@@ -48,8 +48,8 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a> 
-    <a href="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red" alt="laravel" width="40" height="40"/> 
     </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
